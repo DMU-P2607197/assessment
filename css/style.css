@@ -1,0 +1,23 @@
+body {
+  background-color: #000000;
+}
+p {
+  color: #FFFFFF;
+  font-size: 12px;
+}
+h1 {
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+  color: #D2FF00;
+}
+h2, h4 {
+  font-family: helvetica, Arial, sans-serif;
+  margin: 15px;
+  color: #D2FF00;
+}
+img {
+  max-width: 100%;
+}
+li {
+  color: #FFFFFF
+}
